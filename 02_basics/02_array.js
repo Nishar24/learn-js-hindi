@@ -13,6 +13,7 @@ const all_new_heros = [...marvel_heros,...dc_heros]
 
 //console.log(all_new_heros);
 
+
 const another_array = [1, 2, 3, [4, 5, 6], 7, [6, 7, [4, 5]]]//merge all arrays in one array
 
 const real_another_array = another_array.flat(Infinity)
