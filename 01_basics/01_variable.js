@@ -6,6 +6,7 @@ accountCity = "Delhi"
 Prefer not to use var
 because of issue in block scope and functional scope
 */
+
 accountEmail = "nishu@gmail.com"
 //noaccountPassword = "jhj543"
 //accountCity = "Patna"
