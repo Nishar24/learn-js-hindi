@@ -15,7 +15,7 @@ for (const key in programming) {
     //console.log(key);
 }
 
-// const map = new Map()
+const map = new Map()
 // map.set('IN',"India")
 // map.set('USA', "United States of America")
 // map.set('Fr', "France")
@@ -24,3 +24,4 @@ for (const key in programming) {
 // for (const key in map) {
 //     console.log(key);
 // }
+
