@@ -1,4 +1,5 @@
-//generate a random color
+//generate a random color from your opinion
+
 
 const randomColor = function () {
   const hex = '0123456789ABCDEF';
@@ -25,3 +26,4 @@ const stopChangingColor = function () {
 document.querySelector('#start').addEventListener('click', startChangingColor);
 
 document.querySelector('#stop').addEventListener('click', stopChangingColor);
+
