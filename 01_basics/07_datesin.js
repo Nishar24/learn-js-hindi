@@ -1,7 +1,7 @@
 //Dates
 
 let myDate = new Date()
-// console.log(myDate.toString());//Sat Jun 14 2025 19:26:51 GMT+0530 (India Standard Time)
+console.log(myDate.toString());//Sat Jun 14 2025 19:26:51 GMT+0530 (India Standard Time)
 // console.log(myDate.toDateString());//Sat Jun 14 2025
 // console.log(myDate.toISOString());//2025-06-14T13:56:51.616Z
 // console.log(myDate.toJSON());//2025-06-14T13:56:51.616Z
