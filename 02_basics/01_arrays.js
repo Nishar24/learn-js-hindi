@@ -9,7 +9,7 @@ console.log(myArr[0]);
 Array methods
 
 myArr.push(6)
-//  myArr.push(7)
+myArr.push(7)
 //  myArr.pop()
 
 //  myArr.unshift(9)//add
