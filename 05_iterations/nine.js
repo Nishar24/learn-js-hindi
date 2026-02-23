@@ -1,3 +1,4 @@
+// Iteration 
 const myNums = [1, 2, 3]
 
 const myTotal = myNums.reduce(function (acc, currval) {
@@ -33,4 +34,5 @@ const priceToPay = shoppingCart.reduce((acc, item) => acc + item.price, 0);
 
 
 console.log(priceToPay);
+
 
