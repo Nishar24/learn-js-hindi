@@ -1,6 +1,8 @@
 const form = document.querySelector('form');
 form.addEventListener('submit', function (e) {
   e.preventDefault();
+
+  // Yha Height , Weight ko number me show krna h isliye parseInt use kiya h
   const height = parseInt(document.querySelector('#height').value);
   const weight = parseInt(document.querySelector('#weight').value);
   const results = document.querySelector('#results');
@@ -15,3 +17,4 @@ form.addEventListener('submit', function (e) {
     results.innerHTML = `<span>${bmi}</span>`;
   }
 });
+
