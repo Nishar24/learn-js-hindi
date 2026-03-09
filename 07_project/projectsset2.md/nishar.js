@@ -8,6 +8,8 @@ form.addEventListener('submit', function (e) {
   const weight = parseInt(document.querySelector('#weight').value);
   const results = document.querySelector('#results');
 
+
+  // Yha Height, Weight ki value empty nhi rhna chahiye.
   if (height === '' || height < 0 || isNaN(height)) {
     results.innerHTML = `please give a valid height ${height}`;
   } else if (weight === '' || weight < 0 || isNaN(weight)) {
@@ -18,5 +20,6 @@ form.addEventListener('submit', function (e) {
     results.innerHTML = `<span>${bmi}</span>`;
   }
 });
+
 
 
