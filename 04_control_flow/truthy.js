@@ -6,7 +6,7 @@ const userEmail = []//"nishar@gmail.com"
 //     console.log("Don't have user email");
 // }
 
-//falsy values
+// falsy values
 
 // false, 0, -0, BigInt, 0n, "", null, undefined, NaN
 
