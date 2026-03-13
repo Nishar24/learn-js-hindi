@@ -8,7 +8,7 @@ function sayMyName(){
     console.log("R");
 }
 
-//sayMyName()//paranthesis works for execution
+ sayMyName()//paranthesis works for execution
 
 // function addTwoNumbers(number1, number2){
    
