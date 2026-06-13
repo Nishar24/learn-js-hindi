@@ -1,4 +1,4 @@
-//Primitive//call by value hota h
+//Primitive//call by value hota h.
 
 //7 types:String,Number,Boolean,null,undefined,Symbol,BigInt
 
