@@ -1,7 +1,7 @@
 const name = "Nishar"
 const repoCount = 50
 
-//console.log(name + repoCount + " value"); generally this syntax is not used only backtics use in modern era
+console.log(name + repoCount + " value"); generally this syntax is not used only backtics use in modern era
 
 //console.log(`Hello my name is ${name} and my repoCount is ${repoCount}`);
 
