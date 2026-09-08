@@ -8,7 +8,7 @@ because of issue in block scope and functional scope
 */
 
 accountEmail = "nishu@gmail.com"
-//noaccountPassword = "jhj543"
+noaccountPassword = "jhj543"
 //accountCity = "Patna"
 console.table([ accountEmail, accountPassword, accountCity]);
 
