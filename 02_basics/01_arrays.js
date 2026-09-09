@@ -13,7 +13,7 @@ myArr.push(7)
   myArr.pop()
 
   myArr.unshift(9)//add
-//  myArr.shift()//remove
+  myArr.shift()//remove
 
 // console.log(myArr.includes(9));
 // console.log(myArr.indexOf(9));
