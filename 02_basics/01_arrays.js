@@ -12,7 +12,7 @@ myArr.push(6)
 myArr.push(7)
   myArr.pop()
 
-//  myArr.unshift(9)//add
+  myArr.unshift(9)//add
 //  myArr.shift()//remove
 
 // console.log(myArr.includes(9));
