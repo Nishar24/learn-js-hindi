@@ -16,7 +16,7 @@ myArr.push(7)
   myArr.shift()//remove
 
  console.log(myArr.includes(9));
-// console.log(myArr.indexOf(9));
+ console.log(myArr.indexOf(9));
 
  const newArr = myArr.join()
 
