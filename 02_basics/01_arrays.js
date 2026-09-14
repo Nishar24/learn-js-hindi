@@ -20,7 +20,7 @@ myArr.push(7)
 
  const newArr = myArr.join()
 
-// console.log(myArr);
+console.log(myArr);
 // console.log(newArr);
 
 
